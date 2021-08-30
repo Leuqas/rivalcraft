@@ -73,7 +73,7 @@ p {
   width: 90%;
   color: skyblue;
   position: absolute;
-  top: 50cm ;
+  top: 57cm ;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
@@ -152,7 +152,7 @@ body{
   }
 
   .announcments{
-    top: 32.5cm;
+    top: 38cm;
   }
 
 }
